@@ -1,2 +1,2 @@
 # this is a test file
-# I'm learning GIT
+# I'm not learning GIT
